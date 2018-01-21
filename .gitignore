@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so…
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+
+# Configuration files
+.idea/
+venv
+*.pyc
+staticfiles
+.env
+inspirational_spanish_api/keys/
+*.sqlite3
+.ebextensions
